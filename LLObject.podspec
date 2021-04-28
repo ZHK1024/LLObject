@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 对 NSObject 进行扩展, 使所有对象都能访问一个 `NSMutableDictionary` 类型的属性 `ll_KVMap`. 这样就无需每次需要对 class 添加自定义属性时候都重新编码, 只需存储在 `ll_KVMap` 里面即可.
                        DESC
 
-  s.homepage         = 'https://github.com/ruris/LLObject'
+  s.homepage         = 'https://github.com/ZHK1024/LLObject'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ZHK1024' => 'ZHK1024@foxmail.com' }
