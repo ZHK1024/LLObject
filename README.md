@@ -1,6 +1,6 @@
 # LLObject
 
-[![CI Status](https://img.shields.io/travis/ruris/LLObject.svg?style=flat)](https://travis-ci.org/ruris/LLObject)
+[![CI Status](https://img.shields.io/travis/ZHK1024/LLObject.svg?style=flat)](https://travis-ci.org/ZHK1024/LLObject)
 [![Version](https://img.shields.io/cocoapods/v/LLObject.svg?style=flat)](https://cocoapods.org/pods/LLObject)
 [![License](https://img.shields.io/cocoapods/l/LLObject.svg?style=flat)](https://cocoapods.org/pods/LLObject)
 [![Platform](https://img.shields.io/cocoapods/p/LLObject.svg?style=flat)](https://cocoapods.org/pods/LLObject)
